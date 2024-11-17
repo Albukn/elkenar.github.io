@@ -10,12 +10,11 @@ My interest in cybersecurity was sparked at a young age, as I dedicated a signif
 
 
 # Networks
-
-https://linkedin.com/in/theo-dlp
+[LinkedIn](https://linkedin.com/in/theo-dlp)
 
 # Contact
 
-mailto:theocyb@proton.me
+[email](mailto:theocyb@proton.me)
 
 # Certifications
 ## INE 
