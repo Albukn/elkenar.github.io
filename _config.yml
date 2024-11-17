@@ -19,7 +19,7 @@ title: ElKenar # the main title
 tagline: A blog for cybersecurity, CTF, ... # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,11 +98,11 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.discordapp.net/attachments/1303656460739149884/1307713315408973915/image.png?ex=673b4e6e&is=6739fcee&hm=85ee27d351f7f048f847f7b6babd2f857aa7567c8112c8435f00c9ee21efb088&=&format=webp&quality=lossless
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: https://media.discordapp.net/attachments/1303656460739149884/1307713315408973915/image.png?ex=673b4e6e&is=6739fcee&hm=85ee27d351f7f048f847f7b6babd2f857aa7567c8112c8435f00c9ee21efb088&=&format=webp&quality=lossless # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
