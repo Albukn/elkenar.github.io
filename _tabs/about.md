@@ -10,7 +10,7 @@ My interest in cybersecurity was sparked at a young age, as I dedicated a signif
 
 # CTF
 
-https://root-me.org/elkenar
+https://root-me.org/elkenar \
 https://app.hackthebox.com/users/2002529
 
 # Networks
@@ -22,12 +22,12 @@ https://app.hackthebox.com/users/2002529
 
 # Website
 
-Blog
+Blog \
 https://me.v1s10n.org
 
 # Projects
 
-V1s10n 0v3rr1d3
+V1s10n 0v3rr1d3 \
 https://0v3rr1d3.v1s10n.org
 
 # Certifications
